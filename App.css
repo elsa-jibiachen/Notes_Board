@@ -1,0 +1,12 @@
+.App {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 40px;
+}
+
+.export-button {
+  position: fixed;
+  bottom: 80px;
+  right: 170px;
+}

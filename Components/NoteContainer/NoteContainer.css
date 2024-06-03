@@ -1,0 +1,13 @@
+.note-container {
+    width: 75vw;
+    height: 75vh;
+    border: 5px solid #000000;
+  }
+  
+  .note-container-notes {
+    width: 75vw;
+    height: 75vh;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+  }
