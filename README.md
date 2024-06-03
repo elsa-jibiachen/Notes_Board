@@ -1,0 +1,1 @@
+Created a designated area where users can add notes. Enabled double-click action to create an editable text box which allowed users to input text directly into the created text box. Implemented the ability to drag text elements within the notes area. Integrated a button which generates a .xlsx file containing the notes.
